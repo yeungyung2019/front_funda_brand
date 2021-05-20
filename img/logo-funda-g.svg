@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 108 57" style="enable-background:new 0 0 108 57;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#8F8F8F;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{mask:url(#b_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#8F8F8F;}
+	.st4{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st5{mask:url(#d_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#8F8F8F;}
+	.st6{enable-background:new    ;}
+	.st7{fill:#8F8F8F;}
+</style>
+<g>
+	<path class="st0" d="M2,2.2V25h4v-9.7h9.8v-4H6v-5h10.6V2.2H2z M36.4,2.2h-3v13.1c0,1.9-0.3,3.3-0.8,4.1c-0.8,1.3-2,1.9-3.5,1.9
+		c-1.5,0-2.7-0.6-3.5-1.9c-0.6-0.9-0.8-2.2-0.8-4.1V2.2h-4.1v14.7c0,2.4,0.7,4.4,2.2,5.9c1.7,1.7,3.7,2.6,6.2,2.6s4.5-0.9,6.2-2.6
+		c1.5-1.6,2.2-3.5,2.2-5.9V2.2H36.4L36.4,2.2z"/>
+	<g transform="translate(42.5 1.067)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0.7" width="18" height="24.1">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="0.7" width="18" height="24.1" id="b_1_">
+			<g class="st1">
+				<path id="a_1_" class="st2" d="M0,0.7h18v24.1H0V0.7z"/>
+			</g>
+		</mask>
+		<path class="st3" d="M0,23.9V0.7l13.7,13.7V1.1H18v23.6L4.6,11.3l0,12.6L0,23.9z"/>
+	</g>
+	<path class="st0" d="M69.4,21.1V5.8h0.7c2.9,0,5.1,0.3,6.7,1.7c1.7,1.6,2.5,3.6,2.5,6.1c0,2.5-0.8,4.2-2.5,5.8
+		c-0.8,0.7-1.7,1.3-2.8,1.5c-0.8,0.2-1.6,0.3-2.6,0.3c-0.3,0-0.6,0-1,0H69.4z M79.5,5.1c-1.2-1.1-2.5-1.8-3.9-2.3
+		c-1.3-0.5-3.1-0.7-5.4-0.7h-4.7V25h4.7c2.3,0,4.1-0.2,5.4-0.6c1.3-0.4,2.6-1.2,3.9-2.3c2.4-2.2,3.7-5,3.7-8.5
+		C83,10.1,81.8,7.3,79.5,5.1L79.5,5.1z"/>
+	<g transform="translate(83 .317)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0" y="0.4" width="22.1" height="24.2">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="0.4" width="22.1" height="24.2" id="d_1_">
+			<g class="st4">
+				<path id="c_1_" class="st2" d="M0,0.4h22.1v24.2H0V0.4z"/>
+			</g>
+		</mask>
+		<path class="st5" d="M11.2,9.1L6.1,20.6l2.7,0v4l-8.8,0L11.3,0.4l10.9,24.2h-8.9v-4h2.6L11.2,9.1z"/>
+	</g>
+	<g class="st6">
+		<path class="st7" d="M9.5,41.5v2.1h7V45H0.8v-1.4h7v-2.1H2.7v-5.9h11.8v1.4H4.4v3h10.2v1.4H9.5z M8.6,52.4c-3.8,0-6-1.2-6-3.1
+			c0-1.9,2.2-3.1,6-3.1c3.8,0,6,1.1,6,3.1C14.7,51.3,12.5,52.4,8.6,52.4z M4.4,49.3c0,1.1,1.6,1.7,4.2,1.7c2.6,0,4.2-0.6,4.2-1.7
+			c0-1.1-1.6-1.7-4.2-1.7C6.1,47.6,4.4,48.2,4.4,49.3z"/>
+		<path class="st7" d="M26,44.8c-1.7-0.7-3.4-2.3-4.1-4c-0.5,1.8-2.4,3.7-4.2,4.6l-1.1-1.4c2.4-1,4.4-3.3,4.4-6.1v-2h1.8v1.9
+			c0,2.8,2.2,4.9,4.3,5.6L26,44.8z M19.7,51.9v-5.5h1.8v4.1h9.9v1.4H19.7z M30.6,41.6v6h-1.8V34.9h1.8v5.2h2.6v1.5H30.6z"/>
+		<path class="st7" d="M47.5,41.7l0.3,1.4c-1.8,0.4-4.7,0.6-7.8,0.6h-1.8v-7.6h7.9v1.5H40v4.7C42.6,42.3,45.7,42.1,47.5,41.7z
+			 M40,52.2v-6.4h11.1v6.4H40z M49.4,47.1h-7.6v3.6h7.6V47.1z M51.1,40.7v4.1h-1.8v-9.9h1.8v4.3h2.6v1.5H51.1z"/>
+		<path class="st7" d="M62.7,45.4v3.4h7v1.4H53.9v-1.4h7v-3.4h-5.1v-9.2h1.8v3.2H66v-3.2h1.8v9.2H62.7z M66,40.8h-8.4v3.2H66V40.8z"
+			/>
+		<path class="st7" d="M77.1,46.5c2,0,4.2-0.2,5.6-0.5l0.2,1.5c-1.5,0.3-4,0.5-6.2,0.5H75V37.1h6.8v1.4h-5.1v8H77.1z M87.5,52.4
+			v-9.3h-2.1v8.5h-1.7V35.3h1.7v6.3h2.1v-6.7h1.7v17.5H87.5z"/>
+	</g>
+	<g class="st6">
+		<path class="st7" d="M92.7,52.1v-3.9h10.2v-1.1H92.7v-1.4h5.1v-1.3h-7V43h15.8v1.4h-7v1.3h5.1v3.8H94.5v1.2h10.7v1.4H92.7z
+			 M105,42.4c-2.8-0.3-5.5-1.4-6.4-2.8c-0.8,1.4-3.5,2.5-6.3,2.8L91.5,41c2.5-0.1,5.2-1,6-2.2h-5.1v-1.4h12.5v1.4h-5.1
+			c0.8,1.2,3.6,2.2,6,2.2L105,42.4z M95.8,36.3v-1.4h5.7v1.4H95.8z"/>
+	</g>
+</g>
+</svg>
